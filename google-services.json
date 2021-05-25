@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "794220202378",
+    "firebase_url": "https://lspm-a09b0.firebaseio.com",
+    "project_id": "lspm-a09b0",
+    "storage_bucket": "lspm-a09b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794220202378:android:893d65f0a365067d",
+        "android_client_info": {
+          "package_name": "com.kerygma.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794220202378-e049obv0c87sc7p0gb9kfo9ppde60p06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi2JnyRXAEPNxTLp-x2f946rU7BcMF8q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794220202378-e049obv0c87sc7p0gb9kfo9ppde60p06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
